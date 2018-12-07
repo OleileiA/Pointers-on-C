@@ -1,0 +1,2 @@
+/Users/cyw/Desktop/learnByself/2019/Pointers-on-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/cyw/Desktop/learnByself/2019/Pointers-on-C/cmake-build-debug/CMakeFiles/edit_cache.dir
